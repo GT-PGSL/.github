@@ -26,18 +26,6 @@ We're tackling one of the most pressing challenges of our time: understanding ho
 
 ## 🌟 Why Join PGSL?
 
-### **For Academic Researchers**
-- **High-Impact Research**: Our work directly informs climate science and sea level projections
-- **Interdisciplinary Collaboration**: Work alongside experts in geophysics, glaciology, and machine learning
-- **Field Opportunities**: Participate in Antarctic and Greenland research expeditions
-- **Cutting-Edge Tools**: Access to advanced computational resources and geophysical equipment
-
-### **For Program Officers & Funding Agencies**
-- **Societal Relevance**: Direct applications to climate adaptation and sea level rise planning
-- **Technical Innovation**: Novel applications of AI/ML to geophysical problems
-- **Educational Impact**: Training the next generation of polar scientists and engineers
-- **International Collaboration**: Partnerships with polar research institutions worldwide
-
 ### **For Students (Undergraduate & High School)**
 - **Real-World Impact**: Contribute to research that matters for society's future
 - **Skill Development**: Learn Python, machine learning, geophysics, and data analysis
@@ -48,10 +36,10 @@ We're tackling one of the most pressing challenges of our time: understanding ho
 ## 📋 Current Projects
 
 Our GitHub repositories showcase active research in:
-- **User-Guided Calibration Tools**: Making geophysical data processing more accessible[1][2]
-- **Python Development**: Building robust analysis pipelines with comprehensive documentation[3][4]
-- **Interactive Visualization**: Jupyter notebooks with advanced plotting capabilities[5]
-- **Documentation Enhancement**: Professional technical writing and visual design[6]
+- **User-Guided Calibration Tools**: Making geophysical data processing more accessible
+- **Python Development**: Building robust analysis pipelines with comprehensive documentation
+- **Interactive Visualization**: Jupyter notebooks with advanced plotting capabilities
+- **Documentation Enhancement**: Professional technical writing and visual design
 
 ## 🎓 Educational Excellence
 
