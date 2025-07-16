@@ -24,14 +24,6 @@ We're tackling one of the most pressing challenges of our time: understanding ho
 - Improve climate projections by incorporating real-world geophysical constraints
 - Bridge the gap between observations and predictions
 
-## 🌟 Why Join PGSL?
-
-### **For Students (Undergraduate & High School)**
-- **Real-World Impact**: Contribute to research that matters for society's future
-- **Skill Development**: Learn Python, machine learning, geophysics, and data analysis
-- **Flexible Opportunities**: Both in-person and remote research projects available
-- **Career Preparation**: Build experience for graduate school or industry careers
-- **Summer Programs**: Intensive research internships with mentorship
 
 ## 📋 Current Projects
 
