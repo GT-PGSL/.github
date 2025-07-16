@@ -61,7 +61,6 @@ Our GitHub repositories showcase active research in:
 
 ### **Graduate Courses**
 - **EAS 8803**: Glacier and Ice Sheet Dynamics
-- **EAS 8803**: Advanced Geophysics
 
 ## 🚀 Getting Started
 
