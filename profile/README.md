@@ -78,4 +78,3 @@ Ford Earth & Technology Building, Room 3175
 
 **Learn More**: https://pgsl.eas.gatech.edu/
 
-*Ready to help shape the future of polar science? Explore our repositories, check out our research, and join us in understanding Earth's changing ice sheets. The polar regions are calling - will you answer?*
